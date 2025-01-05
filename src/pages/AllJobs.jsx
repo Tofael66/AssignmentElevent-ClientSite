@@ -11,12 +11,7 @@ const AllJobs = () => {
   * some setion done 
   * some setion done 
   * some setion done 
-  * some setion done 
-  * some setion done 
- 
-  * some s
-  * git
-
+  *
   * 
   *  */ 
 
