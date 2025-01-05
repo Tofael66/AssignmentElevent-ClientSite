@@ -6,7 +6,16 @@ import { useState } from 'react';
 const AllJobs = () => {
   const jobData = useLoaderData() ;
  
- 
+  /****
+  * some setion done 
+  * some setion done 
+  * some setion done 
+  * some setion done 
+  * some setion done 
+  * some setion done 
+  * some setion done 
+  * 
+  *  */ 
 
 
 
