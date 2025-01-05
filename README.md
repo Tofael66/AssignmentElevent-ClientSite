@@ -1,8 +1,28 @@
-# React + Vite
+# Our Car Rental
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## key features
+Car Booking 
+Low and High price 
+Best Service 
+using react
+fast service
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Link : https://assignment-elevent.web.app/
+
+
+
+## Using 
+
+react jsx
+moment 
+React Hook Form
+Tailwind css
+Daisy ui
+
+
+
+
+
+
+
