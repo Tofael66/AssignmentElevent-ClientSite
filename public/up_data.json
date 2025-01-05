@@ -1,0 +1,77 @@
+
+
+[
+    {
+      "id": 1,
+      "carImage": "https://i.ibb.co.com/VLkyKgP/images-3.jpg",
+      "carImages": "https://i.ibb.co.com/6yzhMxM/nnnnnnnnnnnnnnn.png",
+      "model": "Toyota Corolla",
+      "dailyPrice": 45,
+      "availability": "true",
+      "datePosted": "2024-12-20"
+    },
+    {
+      "id": 2,
+      "carImage": "https://i.ibb.co.com/xSXhb70/download-1.jpg",
+      "carImages": "https://i.ibb.co.com/XSGW7MR/nnnnnnnnnnn.png",
+      "model": "Honda Civic",
+      "dailyPrice": 50,
+      "availability":"false" ,
+      "datePosted": "2024-12-18"
+    },
+    {
+      "id": 3,
+      "carImage": "https://i.ibb.co.com/BZmnymn/images-9.jpg",
+      "carImages": "https://i.ibb.co.com/ChkyCQc/nnnnnnnnnnn.jpg",
+      "model": "Tesla Model 3",
+      "dailyPrice": 120,
+      "availability": "true",
+      "datePosted": "2024-12-15"
+    },
+    {
+      "id": 4,
+      "carImage": "https://i.ibb.co.com/8M7Ctg8/images.jpg",
+      "carImages": "https://i.ibb.co.com/y8ZZZjY/nnnnnnnnnnnnnn.jpg",
+      "model": "Ford Mustang",
+      "dailyPrice": 90,
+      "availability": "true",
+      "datePosted": "2024-12-17"
+    },
+    {
+      "id": 5,
+      "carImage": "https://i.ibb.co.com/nkpW4QM/images-1.jpg",
+      "carImages": "https://i.ibb.co.com/y52fKkz/lllllllllllllll.jpg",
+      "model": "Chevrolet Malibu",
+      "dailyPrice": 60,
+      "availability": "false",
+      "datePosted": "2024-12-14"
+    },
+    {
+      "id": 6,
+      "carImage": "https://i.ibb.co.com/64JFWL2/download.jpg",
+      "carImages": "https://i.ibb.co.com/5RN5TgT/nnnnnnnnnnnnn.png",
+      "model": "BMW 5 Series",
+      "dailyPrice": 150,
+      "availability": "true",
+      "datePosted": "2024-12-22"
+    },
+    {
+      "id": 7,
+      "carImage": "https://i.ibb.co.com/H2ZY7hq/download-2.jpg",
+      "carImages": "https://i.ibb.co.com/T4Z8BNJ/nnnnnnnnnnnn.png",
+      "model": "Audi A4",
+      "dailyPrice": 130,
+      "availability": "false",
+      "datePosted": "2024-12-19"
+    },
+    {
+      "id": 8,
+      "carImage": "https://i.ibb.co.com/MNVVs6g/images-4.jpg",
+      "carImages": "https://i.ibb.co.com/KqhWKB8/nnnnnnnnnnnn.jpg",
+      "model": "Mercedes-Benz C-Class",
+      "dailyPrice": 140,
+      "availability": "true",
+      "datePosted": "2024-12-21"
+    }
+  ]
+  

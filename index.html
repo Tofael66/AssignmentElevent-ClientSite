@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en"   id="htmlTag"   data-theme="">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Asseignmet-Elevent</title>
+  </head>
+  <body class= "dark:bg-slate-200 text-white relative ">
+
+
+    <div class="absolute  mt-6">
+      <div id="switch" className="rating rating-lg  ">
+   
+        <input type="radio" name="rating-9" className="mask bg-white mask-star-2" />
+     
+      </div>
+    </div>
+
+
+    <div id="root"></div>
+
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+
+  <script>
+    const htmltaggedd = document.getElementById('htmlTag') ;
+    
+          document.getElementById('switch').addEventListener("click" , function(){
+            htmltaggedd.classList.toggle('dark')
+          })
+        </script>
+</html>
